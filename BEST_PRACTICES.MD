@@ -40,11 +40,11 @@
 
 ### Best practices
 
-- Reentrancy
-- Error naming
+- Imports
 - Mocking
 - Deployment
 - Testing
+- Reentrancy
 - Bonus tips
 
 ### Links to solidity docs and foundry docs
